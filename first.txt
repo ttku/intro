@@ -3,3 +3,4 @@ Gitの練習
 .git add
 .git commit
 追加
+.git stutas
